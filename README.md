@@ -1,2 +1,2 @@
 mokrane
-x = local
+x = github
